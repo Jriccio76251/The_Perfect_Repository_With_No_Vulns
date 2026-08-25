@@ -19,4 +19,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/jriccio76251/The_Perfect_Repository_With_No_Vulns:latest
+          tags: ghcr.io/jriccio76251/the_perfect_repository_with_no_vulns:latest
